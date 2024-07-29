@@ -13,15 +13,11 @@
 
 - 🤝 I’m looking for help with **Data Structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://vishnudas7412.netlify.app/](https://vishnudas7412.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vishnudas7412.netlify.app/](Portfolio.com)
 
 - 💬 Ask me about **Android, MERN, JavaScript**
 
 - 📫 How to reach me **vishnudas7412@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
