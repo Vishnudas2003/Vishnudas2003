@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Data Structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://vishnudas7412.netlify.app/](Portfolio.com)
+- 👨‍💻 All of my projects are available at [Portfolio.com](https://vishnudas7412.netlify.app/)
 
 - 💬 Ask me about **Android, MERN, JavaScript**
 
