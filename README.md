@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishnudas2003.vishnudas2003" />
 
-[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://Vishnudas2003.io)
+![newbannerjs](https://github.com/user-attachments/assets/615aadeb-8b16-4317-91ae-a3f27845280c)
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=500&color=F7EF4C&background=E19DFF00&center=true&random=true&width=435&height=69&lines=Hello+Mates+%F0%9F%91%8B;My+name+is+Vishnu+Das" alt="Typing SVG" /></a>
 </h1>
