@@ -1,5 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishnudas2003.vishnudas2003" />
+
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://Vishnudas2003.io)
-<h1 align="center">Hi 👋, I'm Vishnu Das</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=500&color=F7EF4C&background=E19DFF00&center=true&random=true&width=435&height=69&lines=Hello+Mates+%F0%9F%91%8B;My+name+is+Vishnu+Das" alt="Typing SVG" /></a>
+</h1>
+
 <h3 align="center">A passionate Software Developer Based on Toronto, Ontario</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 
